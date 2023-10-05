@@ -1,22 +1,6 @@
 # Stock_Price_Prediction
 This project is a mini project for my semester subject machine learning in which I have predicted stock prices in three different ways (Monthly , Weekly and Daily ) using RNN (LSTM Model) 
 
-### Required Libraries
-
-- pandas
-- numpy
-- requests
-- matplotlib
-- sklearn
-- tensorflow
-- dateutil
-
-You can install these libraries using pip:
-
-```bash
-pip install pandas numpy requests matplotlib scikit-learn tensorflow dateutil
-
-
 
 ### How to create Alpha Vantage API
 
@@ -43,3 +27,22 @@ For detailed information on how to use the Alpha Vantage API and the available e
 ## Important Note
 
 Please be mindful of the Alpha Vantage usage limits and terms of service while using the API. Different API plans have different usage limits, so make sure to review the terms to avoid any disruptions in accessing data.
+
+
+### Required Libraries
+
+- pandas
+- numpy
+- requests
+- matplotlib
+- sklearn
+- tensorflow
+- dateutil
+
+You can install these libraries using pip:
+
+```bash
+pip install pandas numpy requests matplotlib scikit-learn tensorflow dateutil
+
+
+
