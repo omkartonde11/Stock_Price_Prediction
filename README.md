@@ -18,7 +18,7 @@ pip install pandas numpy requests matplotlib scikit-learn tensorflow dateutil
 
 
 
-### How to Create an Alpha Vantage API Key
+### How to create Alpha Vantage API
 
 To access financial market data from Alpha Vantage, you need to create an API key. Follow these steps to obtain your API key:
 
