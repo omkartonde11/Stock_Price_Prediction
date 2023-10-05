@@ -18,7 +18,7 @@ To access financial market data from Alpha Vantage, you need to create an API ke
 
 6. **Copy Your API Key**: Once generated, you'll see your API key on the screen. Copy this key and keep it secure.
 
-7. **Use Your API Key**: Replace `"YOUR_API_KEY"` in the project code with your actual Alpha Vantage API key to access financial market data.
+7. **Use Your API Key**: Replace `"MY API KEY"` in the project code with your actual Alpha Vantage API key to access financial market data.
 
 ## Alpha Vantage API Documentation
 
