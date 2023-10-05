@@ -16,7 +16,9 @@ You can install these libraries using pip:
 ```bash
 pip install pandas numpy requests matplotlib scikit-learn tensorflow dateutil
 
-## How to Create an Alpha Vantage API Key
+
+
+### How to Create an Alpha Vantage API Key
 
 To access financial market data from Alpha Vantage, you need to create an API key. Follow these steps to obtain your API key:
 
